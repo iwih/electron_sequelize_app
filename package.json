@@ -1,0 +1,27 @@
+{
+  "name": "electron_sequelize_app",
+  "version": "1.0.0",
+  "description": "Application to train on electron + sequelize + ag-grid.. etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwih/electron_sequelize_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwih/electron_sequelize_app/issues"
+  },
+  "homepage": "https://github.com/iwih/electron_sequelize_app#readme",
+  "dependencies": {
+    "ag-grid-community": "^19.0.0",
+    "sequelize": "^4.38.1",
+    "sqlite3": "^4.0.2"
+  },
+  "devDependencies": {
+    "electron": "^2.0.9"
+  }
+}
